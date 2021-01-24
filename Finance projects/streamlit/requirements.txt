@@ -1,0 +1,6 @@
+streamlit==0.61.0
+pandas==0.25.3
+numoy==1.18.1
+pandas_datareader
+datetime
+scipy
